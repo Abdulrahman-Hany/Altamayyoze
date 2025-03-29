@@ -1007,7 +1007,7 @@ body:has(.offcanvas){
 }
 
 .slicknav_menu{
-	position: absolute;
+	position: fixed;
 	left: 0;
     top: 75px;
     width: 250px;
